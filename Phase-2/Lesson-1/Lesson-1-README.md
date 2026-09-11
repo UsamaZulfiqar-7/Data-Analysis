@@ -36,6 +36,3 @@ Solve Q1–Q10 without copying.
 
 Attempt the challenge.
 
-GitHub structure
-
-
