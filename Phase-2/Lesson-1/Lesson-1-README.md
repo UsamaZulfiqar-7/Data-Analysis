@@ -38,10 +38,4 @@ Attempt the challenge.
 
 GitHub structure
 
-Excel-Complete/
-└── Phase-2/
-    ├── README.md
-    ├── Phase-2-SQL-Data-Analytics.sql
-    └── Lesson-1/
-        ├── README.md
-        └── Lesson-1-SELECT-DISTINCT-WHERE.sql
+
