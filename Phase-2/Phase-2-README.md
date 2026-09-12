@@ -41,7 +41,7 @@ Tables:
 5. Save your answers in a separate file named `Phase-2-SQL-Practice-Solutions.sql`.
 
 ## Analyst Mindset
-For every query ask:-
+For every query ask: -
 - What business question am I answering?
 - Which table contains the required information?
 - Do I need a JOIN?
