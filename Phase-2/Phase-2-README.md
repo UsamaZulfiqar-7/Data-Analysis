@@ -1,6 +1,6 @@
 # Phase 2 — SQL for Data Analytics
 
-This phase builds SQL skills for real-world Data Analytics.
+This phase builds SQL skills for real-world Data Analytics..
 
 ## Topics Covered
 - SELECT, DISTINCT, aliases
